@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: a01943aadab361d4eb7925b868f30287
+  - enabled: 1
+    path: Assets/Scenes/Rubix Cube.unity
+    guid: 14e36d0231b6ef4449e89009f6820cbc
+  - enabled: 1
+    path: Assets/Won.unity
+    guid: f6d3fce23a3643d4f837a07a18813a69
+  m_configObjects: {}
