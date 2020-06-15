@@ -1,6 +1,12 @@
 # VR-Rubix-Cube
 A VR Rubix cube game made using Unity 3D
 
+### System requirements: 
+
+PC with VR support (Windows PC with GTX 1060 preferred) 
+
+An Oculus Rift S VR headset 
+
 ### Project Description
 
 Rubik’s Cube is a widely popular mechanical puzzle that has attracted attention around the world because of its unique characteristics. As a classic brain-training toy well known to the public, Rubik’s Cube was used for scientific research and technology development by many scholars. In this project, a 3x3 Rubik’s puzzle cube is developed in Unity3D virtual reality having each side controlled via the Oculus Rift controllers. The aim of this game is to rotate the sides of the Rubik's cube in order for each side to have matching color. 
